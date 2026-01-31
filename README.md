@@ -1,6 +1,6 @@
 # doScenes-VLM-Planning
 
-This repository contains the official code and data analysis for the paper: **[Insert Paper Title Here]**.
+This repository contains the official code and data analysis for the paper: **Natural Language Instructions for Scene-Responsive Human-in-the-Loop Motion Planning in Autonomous Driving using Vision-Language-Action Models**.
 
 ## Overview
 
