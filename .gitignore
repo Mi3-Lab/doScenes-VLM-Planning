@@ -1,0 +1,4 @@
+# Large directories to exclude
+data/VLM_Data/
+data/VLM_doScenes_Data/
+src/llava-v1.6-mistral-7b/
